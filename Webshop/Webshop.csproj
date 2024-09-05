@@ -10,8 +10,6 @@
 
   <ItemGroup>
     <Folder Include="2.View\" />
-    <Folder Include="1.Model\" />
-    <Folder Include="3.ViewModel\" />
   </ItemGroup>
 
 </Project>
