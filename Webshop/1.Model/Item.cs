@@ -13,7 +13,6 @@ namespace Webshop._1.Model
         public string Description { get; set; }
         public string FilePath { get; set; }
         public string Category { get; set; }
-
         public double Price { get; set; }
     }
 }

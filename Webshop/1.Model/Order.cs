@@ -10,7 +10,7 @@ namespace Webshop._1.Model
     public class Order
     {
         public int OrderID { get; set; }
-        public List<Item> Items { get; set; }
+        public List<OrderItem> Items = new List<OrderItem> { };
         public double TotalPrice { get; set; }
         public DateTime DateOfPurchase { get; set; }
         public DateOnly DeliveryDate { get; set; }
@@ -19,21 +19,32 @@ namespace Webshop._1.Model
 
         public void AddItems(Item item)
         {
-            Items.Add(item);
+            OrderItem orderItem = new OrderItem(item, 1);
+            Items.Add(orderItem);
+            TotalPrice = CalcPrice();
         }
 
-        public void deleteItems(Item item)
+        public void deleteItems(int itemID)
         {
-            Items.Remove(item);
+            foreach(OrderItem item in Items)
+            {
+                if (item.ItemID == itemID)
+                {
+                    Items.Remove(item);
+                    break;
+                }
+            }
+            TotalPrice = CalcPrice();
         }
 
-        public void CalcPrice()
+        public double CalcPrice()
         {
             double price = 0;
-            foreach (Item item in Items)
+            foreach (OrderItem item in Items)
             {
-                price += item.TotalPrice;
+                price += item.Total;
             }
-            TotalPrice = price;
-
+            return price;
         }
+    }
+}
