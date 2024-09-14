@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Webshop._1.Model
 {
-    public class MobilePay : PaymentInfo
+    public class MobilePay
     {
         public int Number { get; set; }
 
@@ -15,9 +15,10 @@ namespace Webshop._1.Model
             Number = number;
         }
 
-        public override string GetInfo()
+        public string GetInfo()
         {
             return $"MobilePay Number: {Number}";
         }
+        public void SetInfo(int number) { Number = number; }
     }
 }

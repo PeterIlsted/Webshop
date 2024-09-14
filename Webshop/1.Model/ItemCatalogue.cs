@@ -35,7 +35,7 @@ namespace Webshop
 
         public Item GetItem(int ItemID)
         {
-            Item item = ItemList.FirstOrDefault(i => i.ID == ItemID);
+            Item item = ItemList.FirstOrDefault(i => i.ItemID == ItemID);
             return item;
         }
 

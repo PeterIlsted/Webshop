@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Webshop._1.Model
 {
-    public class Bank : PaymentInfo
+    public class Bank
     {
         public string BankName { get; set; }
         public string AccNr { get; set; }
@@ -20,9 +20,16 @@ namespace Webshop._1.Model
         }
 
         // Override abstrakt metode fra PaymentInfo
-        public override string GetInfo()
+        public string GetInfo()
         {
             return $"Bank: {BankName}, Account Number: {AccNr}, Reg: {Reg}";
+        }
+
+        public void SetInfo(string Name, string Acc, string Reg)
+        {
+            BankName = Name;
+            AccNr = Acc;
+            this.Reg = Reg;
         }
     }
 }

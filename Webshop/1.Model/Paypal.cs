@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Webshop._1.Model
 {
-    public class PayPal : PaymentInfo
+    public class PayPal
     {
         public string Email { get; set; }
 
@@ -16,9 +16,10 @@ namespace Webshop._1.Model
         }
 
         // Override abstrakt metode fra PaymentInfo
-        public override string GetInfo()
+        public string GetInfo()
         {
             return $"PayPal Email: {Email}";
         }
+        public void SetPP(string value) { Email = value; }
     }
 }

@@ -9,12 +9,14 @@ namespace Webshop._1.Model
 {
     public class Order
     {
+        public CustomerInfo Customer;
         public int OrderID { get; set; }
         public List<OrderItem> Items = new List<OrderItem> { };
         public double TotalPrice { get; set; }
         public DateTime DateOfPurchase { get; set; }
         public DateOnly DeliveryDate { get; set; }
         public string DeliveryStatus { get; set; }
+        public int Points { get; set; }
 
 
         public void AddItems(Item item)
@@ -22,6 +24,7 @@ namespace Webshop._1.Model
             OrderItem orderItem = new OrderItem(item, 1);
             Items.Add(orderItem);
             TotalPrice = CalcPrice();
+            Points = CalcPoints(TotalPrice);
         }
 
         public void deleteItems(int itemID)
@@ -35,8 +38,8 @@ namespace Webshop._1.Model
                 }
             }
             TotalPrice = CalcPrice();
+            Points = CalcPoints(TotalPrice);
         }
-
         public double CalcPrice()
         {
             double price = 0;

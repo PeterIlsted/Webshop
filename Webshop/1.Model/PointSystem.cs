@@ -8,19 +8,27 @@ namespace Webshop._1.Model
 {
     public class PointSystem
     {
-        public List<int> PointList { get; set; }
-        public int PointSum
-        {
+        public List<Point> PointList { get; set; }
+        private int _pointSum;
+        public int PointSum 
+        { 
+            get { return _pointSum; } 
+            set
+            {
+                if (value < 0)
+                    _pointSum -= value;
+                else
+                    _pointSum += value;
+            }
         }
 
-        public void AddPoint(int points)
+        public void AddPoint(int OrderID, int Points)
         {
-            PointList.Add(points);
+            Point NewPoints = new Point(OrderID, Points);
+            PointList.Add(NewPoints);
+            PointSum = Points;
         }
 
-        public int GetSum()
-        {
-            return PointSum;
-        }
+        
     }
 }
