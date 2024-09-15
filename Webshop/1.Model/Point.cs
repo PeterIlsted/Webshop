@@ -8,8 +8,8 @@ namespace Webshop._1.Model
 {
     public class Point
     {
-        public int OrderId { get; set; }
-        public int Points { get; set; }
+        public int OrderId { get; }
+        public int Points { get; }
         public Point(int ID, int Point)
         {
             OrderId = ID;

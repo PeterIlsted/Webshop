@@ -9,11 +9,12 @@ using Webshop.MVVM;
 
 namespace Webshop._3.ViewModel
 {
-    internal class CustomerViewModel : ViewModelBase
+    public class CustomerViewModel : ViewModelBase
     {
         private ObservableCollection<CustomerInfo> _customers {  get; set; }
         private CustomerInfo _customer;
-        CustomerInfo Customer 
+        ObservableCollection<Point> Points { get; set; }
+        public CustomerInfo Customer 
         {
             get { return _customer; }
             set 
@@ -22,9 +23,9 @@ namespace Webshop._3.ViewModel
                 OnPropertyChanged();
             }
         }
-        private CustomerInfo Login()
+        private void Login()
         {
-            return Customer;
+            //Metode til at logge ind.
         }
         public void NewCustomer()
         {

@@ -25,7 +25,7 @@ namespace Webshop._3.ViewModel
         }
         public double TotalPrice {  get; private set; }
         public int Points { get; private set; }
-        public int OrderID { get; }
+        public int OrderID { get; private set; }
         public void AddItem(Item item)
         {
             SelectedItem = new OrderItem(item);
@@ -44,9 +44,12 @@ namespace Webshop._3.ViewModel
         }
         private void CalcPrice() { foreach(var Item in Basket) TotalPrice += Item.Price; }
         private int CalcPoints(double price) { return (int)(TotalPrice / 50.0); }
+        public void Checkout()
+        {
+            // indsæt metode, til at hente ordren fra OrderRepo nede i Model laget
+            
+        }
+        public void SetID(int ID) { this.OrderID = ID; }
     }
-    public void Checkout()
-    {
-
-    }
+    
 }
