@@ -31,8 +31,11 @@ namespace Webshop._1.Model
         }
         public int GetPoints() { return system.PointSum; }
         public void AddMP(MobilePay info) { MP = info; }
+        public string GetMP() { return MP.GetInfo(); }
         public void AddPP(PayPal info) { PP = info; }
+        public string GetPP() { return PP.GetInfo(); }
         public void AddBank(Bank info) { Bank = info; }
+        public Bank GetBank() { return Bank; }
         public void NewUser(string userName, string password)
         {
             UserName = userName;

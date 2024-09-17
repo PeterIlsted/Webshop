@@ -10,7 +10,7 @@ using Webshop.MVVM;
 
 namespace Webshop._3.ViewModel
 {
-    internal class OrderViewModel : ViewModelBase
+    public class OrderViewModel : ViewModelBase
     {
         ObservableCollection<OrderItem> Basket { get; set; }
         private OrderItem _item;

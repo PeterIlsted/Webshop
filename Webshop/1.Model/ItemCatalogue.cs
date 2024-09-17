@@ -9,39 +9,41 @@ using Webshop._1.Model;
 
 namespace Webshop
 {
-    public class ItemCatalogue
+    public class ItemCatalogue : IRepository<Item>
     {
-
         public List<Item> ItemList { get; set; }
         public Item SelectedItem { get; set; }
 
-        public ItemCatalogue()
+        public IEnumerable<Item> GetAllTypes()
         {
-            ItemList = new List<Item>();
-            SelectedItem = new Item();
+            return ItemList;
         }
 
-        public void AddItem()
+        public Item GetByID(int ID)
         {
-            Item item = new Item();
-            SelectedItem = item;
-            ItemList.Add(SelectedItem);
+            return ItemList.FirstOrDefault(i => i.ItemID == ID);
         }
 
-        public void DeleteItem()
+        public void AddType(Item type)
         {
-            ItemList.Remove(SelectedItem);
+            ItemList.Add ((Item)type);
         }
 
-        public Item GetItem(int ItemID)
+        public void DeleteType(int ID)
         {
-            Item item = ItemList.FirstOrDefault(i => i.ItemID == ItemID);
-            return item;
+            Item item = ItemList.FirstOrDefault(i => i.ItemID == ID);
+            ItemList.Remove(item);
         }
 
-        public void UpdateItem(Item item)
+        public void UpdateType(Item type)
         {
-            // Code to update the item in the list
+            Item ExistingItem = GetByID(type.ItemID);
+            if (ExistingItem != null)
+            {
+                ItemList.Add(ExistingItem);
+            }
+            else
+                ExistingItem = type;
         }
     }
 }

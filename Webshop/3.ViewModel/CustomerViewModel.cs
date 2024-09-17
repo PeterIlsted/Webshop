@@ -13,7 +13,7 @@ namespace Webshop._3.ViewModel
     {
         private ObservableCollection<CustomerInfo> _customers {  get; set; }
         private CustomerInfo _customer;
-        ObservableCollection<Point> Points { get; set; }
+        public PointSystem Points { get; set; }
         public CustomerInfo Customer 
         {
             get { return _customer; }
@@ -26,12 +26,20 @@ namespace Webshop._3.ViewModel
         private void Login()
         {
             //Metode til at logge ind.
+            Points = Customer.system;
         }
         public void NewCustomer()
         {
             Customer = new CustomerInfo();
+            Points = Customer.system;
             _customers.Add(Customer);
         }
+        public string GetMP()
+        {
+            return Customer.GetMP();
+        }
+        public string GetPP() { return Customer.GetPP(); }
+        public Bank GetBank() { return Customer.GetBank(); }
 
     }
 }

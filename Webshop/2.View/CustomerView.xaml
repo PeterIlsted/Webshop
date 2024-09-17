@@ -38,7 +38,19 @@
                     </StackPanel>
                 </Grid>
                 <Grid Grid.Column="2">
-                    <Label Content="Optjente Points skal være her" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="4*"/>
+                            <RowDefinition Height="2*"/>
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0">
+                            
+
+                        </Grid>
+                        <Grid Grid.Row="1">
+                            <Label Name="PointsLbl" Content="{Binding Points.GetPoints()}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Grid>
+                    </Grid>
                 </Grid>
                 <Grid Grid.Column="3">
                     <Label Content="Bankoplysninger skal være her" HorizontalAlignment="Center" VerticalAlignment="Center"/>
