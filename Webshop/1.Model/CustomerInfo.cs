@@ -47,6 +47,7 @@ namespace Webshop._1.Model
             if (Password == _password) Authentification = true; ;
             return Authentification;
         }
+        public int GetID() { return CustomerID; }
         public CustomerInfo(string firstName, string lastName, string adress, int postalCode, string city, int phone)
         {
             FirstName = firstName;

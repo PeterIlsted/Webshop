@@ -10,7 +10,7 @@ namespace Webshop._1.Model
     {
         IEnumerable<Type> GetAllTypes();
         Type GetByID(int ID);
-        void AddType(Type type);
+        int AddType(Type type);
         void DeleteType(int ID);
         void UpdateType(Type type);
 

@@ -9,8 +9,11 @@ namespace Webshop._3.ViewModel
 {
     internal class CheckoutViewModel
     {
-        private CustomerInfo Customer;
-        public OrderViewModel Order {  get; set; }
+        private readonly IRepository<Order> repository;
+        private readonly IRepository<CustomerInfo> customer;
+        
+        public CustomerInfo Customer;
+        public Order Order {  get; set; }
         public string UserName {  get; set; }
         public string Password { get; set; }
         private PayPal PP { get; set; }
@@ -31,9 +34,17 @@ namespace Webshop._3.ViewModel
             Customer.NewUser(UserName, Password);
             //method to add user to repo in model layer.
         }
-        public void Payment() { }
+        public void Payment() 
+        {
+            int ID = repository.AddType(Order);
+            Customer.AddOrder(ID, Order.Points);
+            ID = Customer.GetID();
+            customer.UpdateType();
+            
+        }
         public CheckoutViewModel( CustomerInfo customer) { Customer = customer; }
         public CheckoutViewModel() : this(null) { }
+
 
     }
 }

@@ -8,35 +8,53 @@ namespace Webshop._1.Model
 {
     internal class CustomerRepo : IRepository<CustomerInfo>
     {
-        List<CustomerInfo> Customers = new List<CustomerInfo>();
-        public void AddCustomer(CustomerInfo customer) { Customers.Add(customer); }
-        
-        public void DeleteCustomer(CustomerInfo Customer) {  Customers.Remove(Customer); }
-        public void AddOrder(CustomerInfo Customer, int OrderId, int Points) { Customer.AddOrder(OrderId, Points); }
+        List<CustomerInfo> Customers;
+        private int _newID = 0;
+        public int NewID 
+        {
+            get
+            {
+                _newID++;
+                return _newID;
+            }
+        }
 
         public IEnumerable<CustomerInfo> GetAllTypes()
         {
-            return Customers;
+            throw new NotImplementedException();
         }
 
         public CustomerInfo GetByID(int ID)
         {
-            return Customers.FirstOrDefault(C => C.CustomerID == ID);
+            return Customers.FirstOrDefault(i => i.CustomerID == ID);
         }
 
-        public void AddType(CustomerInfo type)
+        public int AddType(CustomerInfo type)
         {
             throw new NotImplementedException();
         }
 
         public void DeleteType(int ID)
         {
-            throw new NotImplementedException();
+            Customers.Remove(GetByID(ID));
         }
 
         public void UpdateType(CustomerInfo type)
         {
-            throw new NotImplementedException();
+            CustomerInfo item = GetByID(type.CustomerID);
+            int index = Customers.IndexOf(item);
+            if (index != -1) { Customers[index] = type; }
+            else { Customers.Add(type); }
         }
+        public CustomerRepo(List<CustomerInfo> list) 
+        { 
+            Customers = list;
+            foreach(CustomerInfo item in Customers)
+            {
+                if (item.CustomerID > _newID) 
+                    item.CustomerID = _newID;
+            }
+        }
+        public CustomerRepo() : this(null) { Customers = new List<CustomerInfo>(); }
     }
 }

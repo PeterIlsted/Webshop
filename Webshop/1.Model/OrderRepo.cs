@@ -3,28 +3,52 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Controls;
+using Webshop._1.Model;
 
 namespace Webshop._3.ViewModel
 {
-    internal class OrderRepo
+    internal class OrderRepo : IRepository<Order>
     {
-        OrderViewModel SelectedOrder { get; set; }
-        List<OrderViewModel> _orders {  get; set; }
+        public List<Order> Orders {  get; set; }
         int _orderCount = 0;
         public int OrderCount
         { 
             get 
             { 
                 _orderCount++;
-                return _orders.Count;
+                return _orderCount;
             } 
         }
-        public int AddOrder(OrderViewModel order)
+
+        public IEnumerable<Order> GetAllTypes()
         {
-            int NewOrderID = OrderCount;
-            order.SetID(NewOrderID);
-            _orders.Add(order);
-            return NewOrderID;
+            return Orders;
+        }
+
+        public Order GetByID(int ID)
+        {
+            return Orders.FirstOrDefault(i => i.OrderID == ID);
+        }
+
+        public int AddType(Order type)
+        {
+            type.OrderID = OrderCount;
+            Orders.Add(type);
+            return type.OrderID;
+        }
+
+        public void DeleteType(int ID)
+        {
+            Orders.Remove(GetByID(ID);
+        }
+
+        public void UpdateType(Order type)
+        {
+            Order order = GetByID(type.OrderID);
+            int index = Orders.IndexOf(order);
+            if (index != -1) { Orders[index] = type; }
+            else { Orders.Add(type); }
         }
     }
 }
