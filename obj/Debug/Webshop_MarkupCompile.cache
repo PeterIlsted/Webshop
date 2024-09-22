@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\StringExtensions\Webshop\obj\Debug\
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\
 Webshop
 none
 false
 DEBUG;TRACE
-C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\StringExtensions\Webshop\App.xaml
-4566202083
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\App.xaml
+5549752778
 
-281033015248
-13-1310406943
-View\MainWindow.xaml;View\CustomerView.xaml;View\OrderView.xaml;View\TabBar.xaml;
+291842235808
+63-264622692
+View\CatalogueView.xaml;View\CustomerView.xaml;View\OrderView.xaml;View\TabBar.xaml;View\WelcomeView.xaml;
 
 False
 

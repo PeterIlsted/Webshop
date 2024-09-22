@@ -5,12 +5,12 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:Webshop.View"
              mc:Ignorable="d" 
-             d:DesignHeight="50" d:DesignWidth="800">
-    <Grid Height="50" Background="SpringGreen">
-        <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
-            <Button Name="CustomerViewBtn" Content="Customer" Height="25" Width="75" Margin="10,0"/>
-            <Button Name="BasketBtn" Content="Basket" Height="25" Width="75" Margin="10,0"/>
-            <Button Name="ItemsBtn" Content="Catalogue" Height="25" Width="75" Margin="10,0,10,0"/>
-        </StackPanel>
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="LightGreen" Height="50">
+        <TabControl>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Button Content="Catalogue" Width="100" Margin="5" Click="NavigateCatalogue"/>
+            </StackPanel>
+        </TabControl>
     </Grid>
 </UserControl>

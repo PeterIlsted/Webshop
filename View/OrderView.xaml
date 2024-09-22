@@ -9,10 +9,16 @@
     <Grid>
 
         <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
             <RowDefinition Height="4*"/>
             <RowDefinition Height="1*"/>
         </Grid.RowDefinitions>
-        <Grid Grid.Row="0" Background="LightGreen">
+        <Grid Grid.Row="0">
+            <Grid Grid.Row="0">
+               
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="1" Background="LightGreen">
             <Grid>
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="6*"/>
@@ -34,7 +40,7 @@
                 </Grid>
             </Grid>
         </Grid>
-        <Grid Grid.Row="1" Background="DarkGreen">
+        <Grid Grid.Row="2" Background="DarkGreen">
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
                 <Button Name="LoginBtn" Content="Login" Height="25" Width="75" Margin="10,0"/>
                 <Button Name="PurchaseBtn" Content="Purchase" Height="25" Width="75" Margin="10,0"/>

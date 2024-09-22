@@ -3,51 +3,39 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Controls.Primitives;
 
 namespace Webshop.Model
 {
-    public class Order
+    internal class Order
     {
-        public CustomerInfo Customer;
         public int OrderID { get; set; }
-        public List<OrderItem> Items = new List<OrderItem> { };
-        public double TotalPrice { get; set; }
-        public DateTime DateOfPurchase { get; set; }
-        public DateTime DeliveryDate { get; set; }
-        public string DeliveryStatus { get; set; }
-        public int Points { get; set; }
-
-
-        public void AddItems(Item item)
+        public DateTime OrderDate { get; set; }
+        public int EarnedPoints { get; set; }
+        public int SpentPoints { get; set; }
+        public int InfoID { get; set; }
+        public int CustomerID { get; set; }
+        public Order(int orderID, 
+                    DateTime orderDate, 
+                    int earnedPoints, 
+                    int spentPoints, 
+                    int infoID, 
+                    int customerID)
         {
-            OrderItem orderItem = new OrderItem(item, 1);
-            Items.Add(orderItem);
-            TotalPrice = CalcPrice();
-            //Points = CalcPoints(TotalPrice);
+            OrderID = orderID;
+            OrderDate = orderDate;
+            EarnedPoints = earnedPoints;
+            SpentPoints = spentPoints;
+            InfoID = infoID;
+            CustomerID = customerID;
         }
-
-        public void deleteItems(int itemID)
-        {
-            foreach(OrderItem item in Items)
-            {
-                if (item.ItemID == itemID)
-                {
-                    Items.Remove(item);
-                    break;
-                }
-            }
-            TotalPrice = CalcPrice();
-            //Points = CalcPoints(TotalPrice);
-        }
-        public double CalcPrice()
-        {
-            double price = 0;
-            foreach (OrderItem item in Items)
-            {
-                price += item.Total;
-            }
-            return price;
-        }
+        public Order(DateTime orderDate, 
+                    int earnedPoints, 
+                    int spentPoints) : this(0, 
+                                    orderDate, 
+                                    earnedPoints, 
+                                    spentPoints, 
+                                    0, 
+                                    0) { }
+        public Order() : this(DateTime.MinValue, 0, 0) { }
     }
 }

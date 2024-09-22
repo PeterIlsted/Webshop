@@ -6,36 +6,34 @@ using System.Threading.Tasks;
 
 namespace Webshop.Model
 {
-    public class OrderItem : Item
+    internal class OrderItem
     {
-        //public Item BasketItem { get; set; }
-        public int Count 
+        public int OrderID { get; set; }
+        public Product Item {  get; set; }
+        public int ProductID { get; set; }
+        public int Quantity { get; set; }
+        public int OrderSum { get; set; }
+        public OrderItem(int orderID, 
+                        Product item, 
+                        int productID, 
+                        int quantity, 
+                        int orderSum)
         {
-            get { return Count; }
-            set 
-            { 
-                Count = value;
-                Total = CalcPrice();
-            } 
+            OrderID = orderID;
+            Item = item;
+            ProductID = productID;
+            Quantity = quantity;
+            OrderSum = orderSum;
         }
-        public double Total { get; set; }
-        public double CalcPrice()
-        {
-            return Price * Count;
-        }
-        public OrderItem(Item Item, int Count) 
-        {
-            this.Count = Count;
-        }
-        public OrderItem(Item Item) :this(Item, 1) 
-        {
-            this.ItemID = Item.ItemID;
-            this.Name = Item.Name;
-            this.Description = Item.Description;
-            this.Category = Item.Category;
-            this.FilePath = Item.FilePath;
-            this.Price = Item.Price;
-        }
-        public OrderItem() :this(null) { }
+        public OrderItem(Product item, 
+                        int productID, 
+                        int quantity, 
+                        int orderSum) : this(0, 
+                                            item, 
+                                            0, 
+                                            quantity, 
+                                            orderSum) { }
+        public OrderItem(Product item, int quantity) : this(item, 0, quantity, 0) { }
+        public OrderItem() :this(null, 0) { }
     }
 }

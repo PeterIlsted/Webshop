@@ -1,0 +1,515 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\viewmodel\\catalogueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:viewmodel\\catalogueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\view\\catalogueview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:view\\catalogueview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|c:\\users\\pibm9\\documents\\datamatiker\\programmering\\2. semester\\webshop\\view\\catalogueview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:view\\catalogueview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\repository\\itemcatalogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:repository\\itemcatalogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\view\\tabbar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:view\\tabbar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\mvvm\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:mvvm\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\mvvm\\configurationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:mvvm\\configurationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\view\\customerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:view\\customerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\view\\welcomeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:view\\welcomeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\view\\welcomeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:view\\welcomeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\repository\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:repository\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\view\\tabbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:view\\tabbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\viewmodel\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:viewmodel\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pibm9\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\viewmodel\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:viewmodel\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\view\\orderview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:view\\orderview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\viewmodel\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:viewmodel\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\model\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:model\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\model\\paymentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A909FC1-A4A1-4AA0-A15A-94CBDF66E30E}|Webshop.csproj|solutionrelative:model\\paymentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WelcomeView.xaml",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\View\\WelcomeView.xaml",
+              "RelativeDocumentMoniker": "View\\WelcomeView.xaml",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\View\\WelcomeView.xaml",
+              "RelativeToolTip": "View\\WelcomeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T08:34:18.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatalogueView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\View\\CatalogueView.xaml.cs",
+              "RelativeDocumentMoniker": "View\\CatalogueView.xaml.cs",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\View\\CatalogueView.xaml.cs",
+              "RelativeToolTip": "View\\CatalogueView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:33:01.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatalogueViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\ViewModel\\CatalogueViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\CatalogueViewModel.cs",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\ViewModel\\CatalogueViewModel.cs",
+              "RelativeToolTip": "ViewModel\\CatalogueViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:55:03.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:50:23.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatalogueView.xaml",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\View\\CatalogueView.xaml",
+              "RelativeDocumentMoniker": "View\\CatalogueView.xaml",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\View\\CatalogueView.xaml",
+              "RelativeToolTip": "View\\CatalogueView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-21T19:32:57.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerView.xaml",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\View\\CustomerView.xaml",
+              "RelativeDocumentMoniker": "View\\CustomerView.xaml",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\View\\CustomerView.xaml",
+              "RelativeToolTip": "View\\CustomerView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-21T20:42:45.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemCatalogue.cs",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\Repository\\ItemCatalogue.cs",
+              "RelativeDocumentMoniker": "Repository\\ItemCatalogue.cs",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\Repository\\ItemCatalogue.cs",
+              "RelativeToolTip": "Repository\\ItemCatalogue.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAtwFAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:16:00.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TabBar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\View\\TabBar.xaml.cs",
+              "RelativeDocumentMoniker": "View\\TabBar.xaml.cs",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\View\\TabBar.xaml.cs",
+              "RelativeToolTip": "View\\TabBar.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T08:42:29.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\MVVM\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "MVVM\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\MVVM\\RelayCommand.cs",
+              "RelativeToolTip": "MVVM\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:23:22.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Model\\Product.cs",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\Model\\Product.cs",
+              "RelativeToolTip": "Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:37:55.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConfigurationSettings.cs",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\MVVM\\ConfigurationSettings.cs",
+              "RelativeDocumentMoniker": "MVVM\\ConfigurationSettings.cs",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\MVVM\\ConfigurationSettings.cs",
+              "RelativeToolTip": "MVVM\\ConfigurationSettings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T09:34:44.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TabBar.xaml",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\View\\TabBar.xaml",
+              "RelativeDocumentMoniker": "View\\TabBar.xaml",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\View\\TabBar.xaml",
+              "RelativeToolTip": "View\\TabBar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T08:40:37.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderRepo.cs",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\Repository\\OrderRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\OrderRepo.cs",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\Repository\\OrderRepo.cs",
+              "RelativeToolTip": "Repository\\OrderRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:37:34.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WelcomeView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\View\\WelcomeView.xaml.cs",
+              "RelativeDocumentMoniker": "View\\WelcomeView.xaml.cs",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\View\\WelcomeView.xaml.cs",
+              "RelativeToolTip": "View\\WelcomeView.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T09:11:09.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CheckoutViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\ViewModel\\CheckoutViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\CheckoutViewModel.cs",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\ViewModel\\CheckoutViewModel.cs",
+              "RelativeToolTip": "ViewModel\\CheckoutViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:04:56.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-21T20:43:58.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T20:04:49.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-21T18:04:49.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WpfXamlLoader.cs",
+              "DocumentMoniker": "C:\\Users\\pibm9\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs",
+              "ToolTip": "C:\\Users\\pibm9\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs [Read Only]",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAHcAAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T08:10:30.757Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\ViewModel\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\CustomerViewModel.cs",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\ViewModel\\CustomerViewModel.cs",
+              "RelativeToolTip": "ViewModel\\CustomerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:04:58.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModel\\LoginViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:05:48.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\ViewModel\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\ViewModel\\OrderViewModel.cs",
+              "RelativeToolTip": "ViewModel\\OrderViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:40:40.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderView.xaml",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\View\\OrderView.xaml",
+              "RelativeDocumentMoniker": "View\\OrderView.xaml",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\View\\OrderView.xaml",
+              "RelativeToolTip": "View\\OrderView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-21T19:31:58.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-21T19:35:44.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delivery.cs",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\Model\\Delivery.cs",
+              "RelativeDocumentMoniker": "Model\\Delivery.cs",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\Model\\Delivery.cs",
+              "RelativeToolTip": "Model\\Delivery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:13:56.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "Model\\Category.cs",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\Model\\Category.cs",
+              "RelativeToolTip": "Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:13:51.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\Model\\Customer.cs",
+              "RelativeToolTip": "Model\\Customer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:05:18.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PaymentInfo.cs",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\Model\\PaymentInfo.cs",
+              "RelativeDocumentMoniker": "Model\\PaymentInfo.cs",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\Model\\PaymentInfo.cs",
+              "RelativeToolTip": "Model\\PaymentInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:32:52.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\Model\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Model\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\Model\\OrderItem.cs",
+              "RelativeToolTip": "Model\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:23:11.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Model\\Order.cs",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\Model\\Order.cs",
+              "RelativeToolTip": "Model\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:07:00.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "C:\\Users\\pibm9\\Documents\\Datamatiker\\Programmering\\2. semester\\Webshop\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:43:47.687Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

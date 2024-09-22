@@ -12,9 +12,9 @@
             <RowDefinition Height="6*"/>
             <RowDefinition Height="1*"/>
         </Grid.RowDefinitions>
-        <!--<Grid Grid.Row="1">
-            <local:TabBar.View HorizontalAlignment="stretch" VerticalAlignment="top"/>
-        </Grid>-->
+        <Grid Grid.Row="0">
+            <!--<local:TabBar HorizontalAlignment="stretch" VerticalAlignment="top"/>-->
+        </Grid>
         <Grid Grid.Row="1" Background="lightGreen">
             <Grid>
                 <Grid.ColumnDefinitions>

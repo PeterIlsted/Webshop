@@ -6,42 +6,23 @@ using System.Text;
 using System.Threading.Tasks;
 using Webshop.Model;
 using Webshop.MVVM;
+using Webshop.Repository;
+
+using Microsoft.Extensions.Configuration;
+using System.IO;
 
 namespace Webshop.Model
 {
     class CatalogueViewModel : ViewModelBase
     {
-        private readonly IRepository<Item> repository;
-        public ObservableCollection<Item> ItemList { get; set; }
-        private Item _selectedItem;
-        public Item SelectedItem 
+        private readonly IRepository<Product> repository;
+        public CatalogueViewModel(IRepository<Product> repository)
         {
-            get { return _selectedItem; }
-            set 
-            {
-                _selectedItem = value;
-                OnPropertyChanged();
-            }
+
+            this.repository = repository ?? throw new ArgumentNullException(nameof(repository));
+            Products = new ObservableCollection<Product>(repository.GetAll());
         }
-        public CatalogueViewModel(IRepository<Item> repository)
-        {
-            this.repository = repository;
-            ItemList = new ObservableCollection<Item>(repository.GetAllTypes());
-        }
-        public void AddItem()
-        {
-            _selectedItem = new Item();
-            ItemList.Add(SelectedItem);
-            repository.AddType(SelectedItem);
-        }
-        public void RemoveItem()
-        {
-            repository.DeleteType(SelectedItem.ItemID);
-            ItemList.Remove(SelectedItem);
-        }
-        public void EditItem()
-        {
-            // skal lige have færdiggjort denne her
-        }
+        public ObservableCollection<Product> Products { get; private set; }
+        
     }
 }

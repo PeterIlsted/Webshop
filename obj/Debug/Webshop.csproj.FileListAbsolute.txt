@@ -19,3 +19,134 @@ C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter
 C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\StringExtensions\Webshop\obj\Debug\View\TabBar.g.cs
 C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\StringExtensions\Webshop\obj\Debug\View\OrderView.baml
 C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\StringExtensions\Webshop\obj\Debug\View\TabBar.baml
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Webshop.exe.config
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Webshop.exe
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Webshop.pdb
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\Webshop.csproj.AssemblyReference.cache
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\View\CustomerView.g.cs
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\View\OrderView.g.cs
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\View\TabBar.g.cs
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\App.g.cs
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\Webshop_MarkupCompile.cache
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\Webshop_MarkupCompile.lref
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\View\CustomerView.baml
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\View\OrderView.baml
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\View\TabBar.baml
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\Webshop.g.resources
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\Webshop.Properties.Resources.resources
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\Webshop.csproj.GenerateResource.cache
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\Webshop.csproj.CoreCompileInputs.cache
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\Webshop.exe
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\Webshop.pdb
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\Webshop.csproj.AssemblyReference.cache
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\View\CatalogueView.g.cs
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\View\CustomerView.g.cs
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\View\OrderView.g.cs
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\App.g.cs
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\Webshop_MarkupCompile.cache
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\Webshop_MarkupCompile.lref
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\Webshop.exe
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\Webshop.pdb
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\appsettings.json
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Webshop.exe.config
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Webshop.exe
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Webshop.pdb
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Azure.Core.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Azure.Identity.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Buffers.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.ClientModel.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Memory.Data.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Memory.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Security.AccessControl.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Security.Permissions.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Text.Json.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.ValueTuple.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Azure.Core.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Azure.Identity.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Buffers.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.ClientModel.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Memory.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Memory.Data.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Security.AccessControl.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Security.Permissions.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Text.Json.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\System.ValueTuple.xml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\View\CatalogueView.baml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\View\CustomerView.baml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\View\OrderView.baml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\Webshop.g.resources
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\Webshop.Properties.Resources.resources
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\Webshop.csproj.GenerateResource.cache
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\Webshop.csproj.CoreCompileInputs.cache
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\Webshop.csproj.Up2Date
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\View\TabBar.g.cs
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\View\WelcomeView.g.cs
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\View\TabBar.baml
+C:\Users\pibm9\Documents\Datamatiker\Programmering\2. semester\Webshop\obj\Debug\View\WelcomeView.baml

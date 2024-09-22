@@ -1,0 +1,22 @@
+﻿<Window x:Class="Webshop.View.CatalogueView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Webshop.View"
+        mc:Ignorable="d"
+        Title="CatalogueView" Height="450" Width="800">
+    <Grid>
+        <DataGrid Width="500" HorizontalAlignment="Left"
+          CanUserAddRows="False"
+          CanUserDeleteRows="False"
+          AutoGenerateColumns="False"
+          ItemsSource="{Binding Products}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Navn" Binding="{Binding Name}" Width="1*"/>
+                <DataGridTextColumn Header="Description" Binding="{Binding Description}" Width="3*"/>
+                <DataGridTextColumn Header="Pris" Binding="{Binding Price}" Width="1*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
